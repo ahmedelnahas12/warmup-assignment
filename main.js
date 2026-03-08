@@ -1,4 +1,3 @@
-// warmup-assignment main file
 const fs = require("fs");
 
 function getShiftDuration(startTime, endTime) {
